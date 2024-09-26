@@ -24,7 +24,7 @@ void setBoardDefaultConfiguration() {
 
 //	engineConfiguration->clt.adcChannel = EFI_ADC_1;
 
-//	engineConfiguration->iat.adcChannel = EFI_ADC_2;
+	engineConfiguration->iat.adcChannel = EFI_ADC_2;
 
 
     	// 5.6k high side/10k low side = 1.56 ratio divider
